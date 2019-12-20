@@ -23,6 +23,6 @@
 hs_err_pid*
 
 # IDE folders
-infer-schema/target/
-infer-schema/.idea/
+target/
+.idea/
 infer-schema.iml
